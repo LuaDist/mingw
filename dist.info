@@ -1,0 +1,12 @@
+--- This file is part of LuaDist project
+-- Binary only module, mingw, 32bit, posix, dwarf
+name = "mingw"
+version = "4.8.1"
+arch = "Windows"
+type = "x86"
+
+desc = "MinGW compiler for Windows"
+author = "MinGW-builds team"
+license = "BSD,GPL2,GPL3"
+url = "http://sourceforge.net/projects/mingwbuilds/"
+maintainer = "Peter Drahoš"
